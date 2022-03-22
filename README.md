@@ -30,3 +30,26 @@ Cursiva en negrita y anidado **texto _importante_**
 1. Harper
 2. Realmuto
 3. Hoskins
+
+# Lista Anidada
+
+
+# Mapa
+```geojson
+{
+"type": "Polygon",
+"coordinates":[
+  [
+    [-85,35],
+    [-100.2155, 25.6748],
+    [-100.309, 25.6714],
+    [-101.35628,20.67675],
+    [-85,30]
+    ]
+  ]
+ }
+ ```
+    
+
+
+  
