@@ -1,6 +1,6 @@
 # Semana Tec
 ## Oscar Hernández Ruiz Olloqui
-### ITD 6to Semestre
+### ITD 6to Semestre MTY
 Repositorio Semana Tec
 
 # Encabezado grande
