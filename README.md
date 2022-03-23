@@ -1,4 +1,5 @@
 # Semana Tec
+## Oscar Hernández Ruiz Olloqui
 Repositorio Semana Tec
 
 # Encabezado grande
